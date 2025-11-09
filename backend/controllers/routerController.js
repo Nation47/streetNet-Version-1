@@ -1,5 +1,5 @@
 // controllers/routerController.js
-import RouterModel from '../models/Router.js';
+import RouterModel from '../models/Router.js'
 import Session from '../models/Session.js';
 import Voucher from '../models/Voucher.js';
 import shortid from 'shortid';
