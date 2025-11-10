@@ -1,6 +1,6 @@
 // controllers/voucherController.js
 import Voucher from '../models/Voucher.js'
-import User from '../models/user.js';
+import User from '../models/User.js'
 import shortid from 'shortid';
 
 // Admin: create voucher plan(s) or single voucher

@@ -1,7 +1,7 @@
 // controllers/paymentController.js
 import Payment from '../models/Payment.js';
 import Voucher from '../models/Voucher.js';
-import User from '../models/User.js';
+import User from '../models/user.js';
 import shortid from 'shortid';
 
 /**
